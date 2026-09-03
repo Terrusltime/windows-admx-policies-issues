@@ -38,7 +38,7 @@ Disable all apps from Microsoft Store
 **French display name:**
 
 ```text
-Désactiver toutes les applications du Microsoft Store
+Désactiver toutes les applications depuis le Microsoft Store
 ```
 
 **Group Policy path:**
@@ -95,7 +95,7 @@ DisableStoreApps = 1
 
 Microsoft Store applications are prevented from launching.
 
-This includes applications that were preinstalled or installed from Microsoft Store such as the new Windows Terminal, notepad or the windows calculator.
+This includes applications that were preinstalled or installed from Microsoft Store such as the new Windows Terminal, Notepad or the Windows Calculator.
 
 ---
 
@@ -198,7 +198,7 @@ The resulting value is:
 0
 ```
 
-7. Try opening a Microsoft store application such as Notepad --> Working.
+7. Try opening a Microsoft Store application such as Notepad --> Working.
 
 8. Set the same policy to **Disabled** and apply Group Policy again.
 
@@ -247,7 +247,9 @@ This indicates that the issue originates from the policy design rather than from
 The affected administrative template files were taken directly from the local Windows installation : 
 
 ```text
-C:\Windows\PolicyDefinitions\WindowsStore.admx C:\Windows\PolicyDefinitions\en-US\WindowsStore.adml
+C:\Windows\PolicyDefinitions\WindowsStore.admx 
+C:\Windows\PolicyDefinitions\en-US\WindowsStore.adml
+C:\Windows\PolicyDefinitions\fr-FR\WindowsStore.adml
 ```
 
 ### SHA256
@@ -260,7 +262,7 @@ C:\Windows\PolicyDefinitions\WindowsStore.admx C:\Windows\PolicyDefinitions\en-U
 0D505D880EE3083753A7839E211991E69EC47E92E58749A17A4E35B2E0896403       C:\Windows\PolicyDefinitions\fr-FR\WindowsStore.adml
 ```
 
-### Files infos
+### Files informations
 
 ```text
 C:\Windows\PolicyDefinitions\WindowsStore.admx         5248 01/04/2024 09:22:09
