@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "738900cfb566605b",
+    "type": "split",
+    "children": [
+      {
+        "id": "38670e42ece90d33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96d0e83baa1222e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "aaa3ed9329b7c400",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "WindowsStore/DisableStoreApps-inverted-semantics/evidences/english_policy.png"
+              },
+              "icon": "lucide-image",
+              "title": "english_policy"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a183872af8f38af",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5376234179d8618",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40ca2060838a65c2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9650c4d37f54fdd2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "861a8027f47c3cd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb71f3f5645556b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "87fcd665633ff664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ae718bb3f6b9286",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "WindowsStore/DisableStoreApps-inverted-semantics/evidences/english_policy.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "3869da57d9db2e5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "WindowsStore/DisableStoreApps-inverted-semantics/evidences/english_policy.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d7714dadda452752",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a23f39305054dded",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "60356b1a060aaeab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "WindowsStore/DisableStoreApps-inverted-semantics/evidences/english_policy.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "aaa3ed9329b7c400",
+  "lastOpenFiles": [
+    "WindowsStore/DisableStoreApps-inverted-semantics/README.md",
+    "WindowsStore/DisableStoreApps-inverted-semantics/evidences/english_policy.png",
+    "WindowsStore/DisableStoreApps-inverted-semantics/evidences/WindowsStore.adml",
+    "WindowsStore/DisableStoreApps-inverted-semantics/evidences/WindowsStore.admx",
+    "WindowsStore/DisableStoreApps-inverted-semantics/evidences",
+    "Pasted image 20260903211530.png",
+    "WindowsStore/DisableStoreApps-inverted-semantics",
+    "README.md",
+    "WindowsStore"
+  ]
+}
