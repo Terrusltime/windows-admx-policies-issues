@@ -1,4 +1,7 @@
-# Report_Windows_DisableStoreApps-Policy
+# Issues in Windows ADMX and ADML files
 
-This repository will contains all problems encounters in ADMX/ADML files that are used in the gpedit.msc and gpmc.msc windows.
+This repository documents issues identified in Microsoft Windows ADMX/ADML Administrative Template files used by Group Policy Editor (gpedit.msc) and Group Policy Management Console (gpmc.msc).
 
+Current issues reported : 
+
+1. Issue in Windows Store Policy named "Disable all apps from Microsoft Store". Group Policy setting has counter-intuitive and inverted `Enabled` / `Disabled` semantics.

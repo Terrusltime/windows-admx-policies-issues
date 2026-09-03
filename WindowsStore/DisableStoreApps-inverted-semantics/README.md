@@ -19,7 +19,7 @@ The issue is that the **policy name itself contradicts the semantics of the Enab
 
 ---
 
-## Affected policy (see `evidence` folder)
+## Affected policy (see `evidences` folder)
 
 **ADMX file:** `WindowsStore.admx`
 
@@ -198,7 +198,7 @@ The resulting value is:
 0
 ```
 
-7. Try opening a Microsoft store application such as Notepad --> Not Working.
+7. Try opening a Microsoft store application such as Notepad --> Working.
 
 8. Set the same policy to **Disabled** and apply Group Policy again.
 
@@ -207,6 +207,7 @@ The resulting value becomes:
 ```text
 1
 ```
+9. Try opening a Microsoft store application such as Notepad --> Not Working.
 
 The value `1` disables applications originating from Microsoft Store.
 
@@ -255,6 +256,8 @@ C:\Windows\PolicyDefinitions\WindowsStore.admx C:\Windows\PolicyDefinitions\en-U
 0469E4FC47CDF89FCC3B8EEC0869BC27C74C991C460D08EFE635B3E7423EC3DC       C:\Windows\PolicyDefinitions\WindowsStore.admx
 
 1F877B7A94FF8B235C5BA3C821896136D8E48E720B8749E2B4DEA39DEFAC0405       C:\Windows\PolicyDefinitions\en-US\WindowsStore.adml
+
+0D505D880EE3083753A7839E211991E69EC47E92E58749A17A4E35B2E0896403       C:\Windows\PolicyDefinitions\fr-FR\WindowsStore.adml
 ```
 
 ### Files infos
@@ -262,6 +265,7 @@ C:\Windows\PolicyDefinitions\WindowsStore.admx C:\Windows\PolicyDefinitions\en-U
 ```text
 C:\Windows\PolicyDefinitions\WindowsStore.admx         5248 01/04/2024 09:22:09
 C:\Windows\PolicyDefinitions\en-US\WindowsStore.adml   3584 01/04/2024 18:12:33
+C:\Windows\PolicyDefinitions\fr-FR\WindowsStore.adml   4405 01/04/2024 18:34:46
 ```
 
 ---

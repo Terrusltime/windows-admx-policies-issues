@@ -11,8 +11,7 @@
     </category>
   </categories>
   <policies>
-  <!-- Extract from WindowsStore.admx.
-     Included only to demonstrate the affected policy definition. -->
+  <!-- Extract from WindowsStore.admx. Included only to demonstrate the affected policy definition. -->
     <policy
         name="DisableStoreApps"
         class="Machine"
